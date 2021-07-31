@@ -12,6 +12,12 @@ This task had 3 subtasks.
  
 2. Mini Project(Tic Tac Toe Implementation using Python)-
 
-Module used - Pygame
-The initial colors, variables, fonts were declared.
-Next the display screen and the game board was created.
+ Module used - Pygame
+ The initial colors, variables, fonts were declared.
+ Next the display screen and the game board was created. The function to make marks 'X' and 'O' was enabled. 
+ After that the condition for the game to end and the decision of the winner (X, O, Tie) was done.
+ Resources used: https://www.youtube.com/playlist?list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO
+ https://www.javatpoint.com/pygame
+ https://www.geeksforgeeks.org/tic-tac-toe-gui-in-python-using-pygame/
+ 
+3. Mini Project 
