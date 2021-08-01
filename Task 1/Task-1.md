@@ -20,4 +20,12 @@ This task had 3 subtasks.
  https://www.javatpoint.com/pygame
  https://www.geeksforgeeks.org/tic-tac-toe-gui-in-python-using-pygame/
  
-3. Mini Project 
+3. Mini Project(Connect Four Implementation using Python)-
+Module used - Numpy
+Initial functions were defined to create and place the board markers, then to identify and classify a valid move.
+Next the condition to check if the game was over was defined and who won the game(Player 1/ Player 2/ Tie).
+Game input for player 1 and player 2 was defined through keyboard input from 1 to 7.
+The main loop was thus implemented.
+Resources used: https://www.youtube.com/watch?v=0zZjmf9D1MU
+https://www.pygame.org/docs/ref/key.html
+https://www.youtube.com/watch?v=dX57H9qecCU&list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO&index=5&t=216s
